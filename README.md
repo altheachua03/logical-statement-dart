@@ -1,5 +1,8 @@
 # Week 8 Activity: Dart programming
-Student Name: Althea Chua     Activity: Week 8 – Dart Programming     Program: Student BMI Checker
+**Student Name:** Althea Chua 
+**Block:** 3.1BSIT
+**Activity:** Week 8 - Dart Programming
+**Program:** Student BMI Checker
 
 # logical-statement-dart
 Description:
