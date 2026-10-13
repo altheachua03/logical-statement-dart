@@ -1,0 +1,40 @@
+--- Student 1 ---
+Enter student name: Phuwin
+Enter age: 23
+Enter weight in kilograms: 67
+Enter height in meters: 1.80
+
+Student name: Phuwin
+Age: 23 years old
+Is the student an adult? true
+BMI: 20.68
+BMI category: Within the usual healthy adult range
+Within the usual healthy adult BMI range? true
+
+--- Student 2 ---
+Enter student name: Harit 
+Enter age: 29
+Enter weight in kilograms: sixtyfour 
+
+Invalid input!
+Please enter a valid name, age, weight, and height.
+This student record will be skipped.
+
+--- Student 3 ---
+Enter student name: Emi
+Enter age: 28
+Enter weight in kilograms: 95
+Enter height in meters: 1.50
+
+Student name: Emi
+Age: 28 years old
+Is the student an adult? true
+BMI: 42.22
+BMI category: BMI of 30 or higher
+Within the usual healthy adult BMI range? false
+
+===== Summary =====
+Total students processed: 3
+Valid records: 2
+Invalid records: 1
+Students within the usual healthy adult BMI range: 1
